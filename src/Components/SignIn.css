@@ -1,0 +1,47 @@
+.form-f{
+    background-color: aliceblue;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  input[type="text"],input[type="password"]{
+    width: 200px;
+    margin-bottom: 10px;
+    padding: 3px;
+    border: 2px solid black;
+  }
+  
+  input[type="checkbox"]{
+    margin-bottom: 20px;
+    padding-right: 40px;
+  
+  }
+  input[type="submit"]{
+    width: 100px;
+  }
+  label{
+    font-weight: 500;
+    padding-left: 10px;
+    margin-bottom: 30px;
+  }
+  
+  button{
+    
+    padding: 5px;
+    width:auto;
+  }
+  button:hover{
+    background-color: black;
+    color: white;
+
+  }
+  
+   ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  li{
+    padding: 10px;
+  }
+  
